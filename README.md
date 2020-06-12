@@ -2,17 +2,16 @@
 
 This is my first React Native Application. Trying to test the features and power of this technology.
 
-# Prerequisites
+### Prerequisites
 
  NodeJs
  Expo CLI
 
-# Contributing
+### Contributing
 
 This repository is open for any contributions.
 
-# Author
+### Author
 
  `Paras Nagpal`
 
- 
